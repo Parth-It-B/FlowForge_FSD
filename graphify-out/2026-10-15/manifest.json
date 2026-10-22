@@ -1,0 +1,197 @@
+{
+  "client/package.json": {
+    "mtime": 1792033607.7931406,
+    "ast_hash": "5edae8cb1d6ef4e1d3fee4a085f31b58",
+    "semantic_hash": ""
+  },
+  "client/postcss.config.js": {
+    "mtime": 1792033619.6119864,
+    "ast_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0",
+    "semantic_hash": ""
+  },
+  "client/src/App.jsx": {
+    "mtime": 1792033809.9361024,
+    "ast_hash": "acb50d43e164a7fa7b8128ddbd0af163",
+    "semantic_hash": ""
+  },
+  "client/src/app/store.js": {
+    "mtime": 1792033662.2210891,
+    "ast_hash": "61bc4703808b8f2c0a297e234853b6e5",
+    "semantic_hash": ""
+  },
+  "client/src/components/IssueModal.jsx": {
+    "mtime": 1792033727.4135695,
+    "ast_hash": "9eef60d7c65936ce14a4f893245e3372",
+    "semantic_hash": ""
+  },
+  "client/src/components/Navbar.jsx": {
+    "mtime": 1792033687.9849503,
+    "ast_hash": "07f37f460c7e6ce0b5d98d3052e9f6a0",
+    "semantic_hash": ""
+  },
+  "client/src/components/ProtectedRoute.jsx": {
+    "mtime": 1792033693.5584302,
+    "ast_hash": "8a1d9730ffaf0c09a26832a1e70b582f",
+    "semantic_hash": ""
+  },
+  "client/src/components/StatCard.jsx": {
+    "mtime": 1792033706.7259,
+    "ast_hash": "4a244a69c9f02d3df71e85104261be2e",
+    "semantic_hash": ""
+  },
+  "client/src/features/auth/authSlice.js": {
+    "mtime": 1792033647.218515,
+    "ast_hash": "57c06f23cd0e2a63b1077bc6294f793c",
+    "semantic_hash": ""
+  },
+  "client/src/features/issues/issuesSlice.js": {
+    "mtime": 1792033657.9385836,
+    "ast_hash": "5d82d76b14d163249277bb558f74b568",
+    "semantic_hash": ""
+  },
+  "client/src/hooks/useDebounce.js": {
+    "mtime": 1792033672.4637427,
+    "ast_hash": "0bab41a8f3cfadc15b2e830f89f1957c",
+    "semantic_hash": ""
+  },
+  "client/src/main.jsx": {
+    "mtime": 1792033814.2894115,
+    "ast_hash": "52cb466173bb8c3c92faed03dbc6d750",
+    "semantic_hash": ""
+  },
+  "client/src/pages/DashboardPage.jsx": {
+    "mtime": 1792033802.725551,
+    "ast_hash": "59f3492bb00c8b877420f574779ccab6",
+    "semantic_hash": ""
+  },
+  "client/src/pages/HomePage.jsx": {
+    "mtime": 1792033743.1064897,
+    "ast_hash": "b3e8bd4492bc33c0a9e5b57988a99913",
+    "semantic_hash": ""
+  },
+  "client/src/pages/LoginPage.jsx": {
+    "mtime": 1792033761.708177,
+    "ast_hash": "6559497a2fc979ffc270dab9367637b7",
+    "semantic_hash": ""
+  },
+  "client/src/pages/RegisterPage.jsx": {
+    "mtime": 1792033775.39581,
+    "ast_hash": "29f90acb1143661759d1bb0a12a849e6",
+    "semantic_hash": ""
+  },
+  "client/src/services/api.js": {
+    "mtime": 1792033635.8101285,
+    "ast_hash": "db422e7f6bca6480d8be57b320c388a6",
+    "semantic_hash": ""
+  },
+  "client/tailwind.config.js": {
+    "mtime": 1792033615.8771036,
+    "ast_hash": "dd3e67d24e95a602d2736c7884273f2a",
+    "semantic_hash": ""
+  },
+  "client/vite.config.js": {
+    "mtime": 1792033611.7005825,
+    "ast_hash": "84b8c1bb39efd0b18c48cedff82594e8",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1792033989.9957912,
+    "ast_hash": "7b2395c57c3ddd9c3554adce5d1d23b8",
+    "semantic_hash": ""
+  },
+  "run-dev.js": {
+    "mtime": 1792033904.3658366,
+    "ast_hash": "4431fdf346169025347a5e1af3e92948",
+    "semantic_hash": ""
+  },
+  "server/package.json": {
+    "mtime": 1792033998.699064,
+    "ast_hash": "a68089ec4883ab055b1e221af35eb936",
+    "semantic_hash": ""
+  },
+  "server/seed.js": {
+    "mtime": 1792033981.5761373,
+    "ast_hash": "7878f3e3d694c494cf4118d50ea4cb6a",
+    "semantic_hash": ""
+  },
+  "server/src/app.js": {
+    "mtime": 1792032636.8649242,
+    "ast_hash": "bf8a7c569c45a2bd1cc18dbdaa83fabf",
+    "semantic_hash": ""
+  },
+  "server/src/config/db.js": {
+    "mtime": 1792032553.5369523,
+    "ast_hash": "7830f41cb6a0a5c7bf585ff88fb2914a",
+    "semantic_hash": ""
+  },
+  "server/src/controllers/authController.js": {
+    "mtime": 1792032602.5597408,
+    "ast_hash": "e97e7bacd7e6cb7070cb4c5661588a46",
+    "semantic_hash": ""
+  },
+  "server/src/controllers/issueController.js": {
+    "mtime": 1792032618.4356196,
+    "ast_hash": "0afe06084b4f5e673906711986a44ff1",
+    "semantic_hash": ""
+  },
+  "server/src/middleware/authMiddleware.js": {
+    "mtime": 1792032574.8055236,
+    "ast_hash": "d74646bf742f29c2a5693708099b6015",
+    "semantic_hash": ""
+  },
+  "server/src/middleware/errorMiddleware.js": {
+    "mtime": 1792032589.1027482,
+    "ast_hash": "4b0f3d5d290e789b731c7a996feac656",
+    "semantic_hash": ""
+  },
+  "server/src/middleware/validateMiddleware.js": {
+    "mtime": 1792032583.7034006,
+    "ast_hash": "4326d1d4c3335eda5a4db7c3c9f979f4",
+    "semantic_hash": ""
+  },
+  "server/src/models/Issue.js": {
+    "mtime": 1792032567.0076814,
+    "ast_hash": "c5a5e54387f63d712e3a1421bddc7a6d",
+    "semantic_hash": ""
+  },
+  "server/src/models/User.js": {
+    "mtime": 1792032560.8699355,
+    "ast_hash": "bb1f44dedf20cd014575d6cca830e486",
+    "semantic_hash": ""
+  },
+  "server/src/routes/authRoutes.js": {
+    "mtime": 1792032623.9883401,
+    "ast_hash": "ab93c2a40a04839ad38a86def9b4a14f",
+    "semantic_hash": ""
+  },
+  "server/src/routes/issueRoutes.js": {
+    "mtime": 1792032628.5623455,
+    "ast_hash": "53d5ed692a0698750935a2cc988df959",
+    "semantic_hash": ""
+  },
+  "server/src/server.js": {
+    "mtime": 1792032642.2858737,
+    "ast_hash": "48ee51ab733b631696a6aeb13722622c",
+    "semantic_hash": ""
+  },
+  "server/test-server.js": {
+    "mtime": 1792032829.3776796,
+    "ast_hash": "905f22e8c1e4a320c20ae198cc82d4cd",
+    "semantic_hash": ""
+  },
+  "EXPERIMENTS.md": {
+    "mtime": 1792034035.8068304,
+    "ast_hash": "16f62bfb49b87270e7daa12357f10812",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792034048.7009678,
+    "ast_hash": "c065db21c0f973f481b374dc35c52b4d",
+    "semantic_hash": ""
+  },
+  "client/index.html": {
+    "mtime": 1792033625.0408292,
+    "ast_hash": "3ee820c551a6fc8e6c838a8a0d121d1c",
+    "semantic_hash": ""
+  }
+}
